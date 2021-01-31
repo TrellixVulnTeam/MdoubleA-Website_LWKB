@@ -1,0 +1,10 @@
+/.idea
+/build
+ConvaiBox.egg-info
+/dist
+/env
+/tests
+/__pycache__
+/ConvaiBox/__pycache__
+/ConvaiBox/trained_model
+setup.py
