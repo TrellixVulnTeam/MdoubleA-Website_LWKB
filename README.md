@@ -1,4 +1,4 @@
-## Hello
+## About The Project
 
 I'm Michael (MdoubleA) and this is the architecture of an internet space for experimentation, and exploration of various web technologies.<br/>
 **See it here:** https://mdoublea.info.
