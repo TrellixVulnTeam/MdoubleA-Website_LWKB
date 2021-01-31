@@ -12,7 +12,7 @@ I'm Michael (MdoubleA) and this is the architecture of an internet space for exp
 
 ### Installation
 
-0. Install tech stack; Python(3.8.3), Flask(1.1.2), Node.js(v12.18.2), and React.js(17.0.1). Version are as of January 2021.
+0. Install tech stack; Python, Flask, Node.js, and React.js.
 
 1. Set up and run server.
     1. Enter Server/, then create and activate python virtual environment.
